@@ -1,5 +1,5 @@
 // Importing Triangle, Square, Circle classes from ./shapes.js
-const { Triangle, Square, Circle } = require("./lib/shapes");
+const { Triangle, Square, Circle } = require("./libs/shapes");
 
 // Unit testing -> testing for a triangle with a blue background to render
 describe("Triangle test", () => {
