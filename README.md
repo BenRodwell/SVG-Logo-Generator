@@ -13,7 +13,8 @@ N/A
 - Use the appropriate package manager to install.
   git clone: 
 
-  URL: 
+  URL: (https://github.com/BenRodwell/SVG-Logo-Generator/tree/main)
+
 ## Usage
 
 
