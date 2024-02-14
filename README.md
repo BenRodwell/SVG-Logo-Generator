@@ -11,9 +11,8 @@ N/A
 ## Installation
 
 - Use the appropriate package manager to install.
-  git clone: 
-
-  URL: (https://github.com/BenRodwell/SVG-Logo-Generator/tree/main)
+  git clone: https://github.com/BenRodwell/SVG-Logo-Generator.git
+  URL: https://github.com/BenRodwell/SVG-Logo-Generator/tree/main
 
 ## Usage
 
